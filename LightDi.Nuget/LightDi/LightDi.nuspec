@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>LightDi</id>
+    <version>2.1.0</version>
+    <title>LightDi - Lightweight dependency injection container</title>
+    <authors>James Millar</authors>
+    <owners>James Millar</owners>
+    <summary>A lightweight dependency injection container</summary>
+    <description>A lightweight dependency injection container</description>
+    <releaseNotes>Initial release</releaseNotes>
+    <language>en-GB</language>
+    <projectUrl>https://github.com/Distinctlyminty/LightDi</projectUrl>
+    <licenseUrl>https://github.com/Distinctlyminty/LightDi/blob/main/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>Copyright (C) 2020 - 2021, James Millar </copyright>
+    <tags>dependency injection</tags>
+  </metadata>
+</package>
